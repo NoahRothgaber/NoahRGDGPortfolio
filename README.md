@@ -1,16 +1,5 @@
 # noah_r_gdgflutter
 
-A new Flutter project.
+This project is designed to make use of the Flutter API for creating a dynamic web application. The main programming language in the backend is Dart, which emphasizes the use of containers for different application components. The code itself is object oriented in nature, and was built at the Google Development Group event in the Massachusetts area. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application itself, is a portfolio used to link my github page and linkedin profile. 
