@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425776832180",
+    "project_id": "noahrgdgflutter",
+    "storage_bucket": "noahrgdgflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425776832180:android:8ff9ee0d6d8628c91441e1",
+        "android_client_info": {
+          "package_name": "com.example.noah_r_gdgflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425776832180-p4l1rcdmmkor177o36lcah9orr97od26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-etQtXopQEnONNSBZu-nbkVO8qM-0CNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425776832180-p4l1rcdmmkor177o36lcah9orr97od26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
